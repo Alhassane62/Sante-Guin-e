@@ -23,7 +23,7 @@
 |-----------------------|----------------------|------------------------|
 | HTML5 / CSS3          | (à intégrer si nécessaire : Django, Flask…) | Animate.css, Bootstrap 5 |
 | Bootstrap 5           |                      | Font Awesome, Bootstrap Icons |
-| JavaScript (vanilla)  |                      |                        |
+| JavaScript  |                      |                        |
 
 ## 📁 Structure du projet
 
@@ -58,7 +58,7 @@ sante-guinee/
 
     open index.html
 
-# Auteurs 
+## Auteurs 
 🧑‍💻 Auteur
 
 Alhassane GS Diallo
